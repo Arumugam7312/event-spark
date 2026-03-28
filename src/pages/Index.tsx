@@ -62,7 +62,7 @@ export default function Index() {
                 </Button>
               </Link>
               <Link to="/services">
-                <Button size="lg" variant="outline" className="border-background/30 text-background hover:bg-background/10 text-base px-8">
+                <Button size="lg" variant="outline" className="border-background/30 text-black  hover:bg-background/10 text-base px-8">
                   Explore Services
                 </Button>
               </Link>
